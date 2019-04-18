@@ -2,15 +2,15 @@
 
 ## Included in this repository
 #### 1. Capstone 2 Final Report.ipynb
-  #### The Problem:
-  The problem is to minimize the inefficiencies of the Chicago Divvy bike sharing system, develop models to predict demand,
-  and use that insight so that the bicycles and stations are operating efficiently. 
+   #### The Problem:
+   The problem is to minimize the inefficiencies of the Chicago Divvy bike sharing system, develop models to predict demand,
+   and use that insight so that the bicycles and stations are operating efficiently. 
 
-  #### Approach and Solution:
-  Data Collection: Kaggle Chicago Divvy Bicycle Sharing Data (
-  https://www.kaggle.com/yingwurenjian/chicago-divvy-bicycle-sharing-data). Data wrangling, exploratory data analysis, and
-  machine learning performed in this notebook. Predictions using the random forest model and potential next steps are also 
-  explored.
+   #### Approach and Solution:
+   Data Collection: Kaggle Chicago Divvy Bicycle Sharing Data (
+   https://www.kaggle.com/yingwurenjian/chicago-divvy-bicycle-sharing-data). Data wrangling, exploratory data analysis, and
+   machine learning performed in this notebook. Predictions using the random forest model and potential next steps are also 
+   explored.
   
 #### 2. Capstone 2 Milestone 1.ipynb	
   Data collection, data wrangling, exploratory data analysis
@@ -23,9 +23,9 @@
 
 
 ### Link to Milestone Report and Slide Deck
-Document
+Document:
 https://docs.google.com/document/d/1bSnnGChffaT6ZXmdKjUibSshVLD8gclziDoledif48I/edit?usp=sharing
 
-Slides
+Slides:
 https://docs.google.com/presentation/d/1b7kfG908jts2IsQvwvsnsmeEUKSswdG76InCDVt1i8M/edit?usp=sharing
 
